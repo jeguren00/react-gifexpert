@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`pruebas con el componente gifitem match con el snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="Imagen de prueba"
+      src="https://upload.wikimedia.org/wikipedia/commons/7/71/1885Benz.jpg"
+    />
+    <p>
+      Imagen de prueba
+    </p>
+  </div>
+</div>
+`;
